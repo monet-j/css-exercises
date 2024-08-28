@@ -1,0 +1,18 @@
+.alert-text {
+    background-color: rgb(235, 148, 155);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.important-text {
+    font-size: 24px;
+}
+
+#title {
+    font-size: 36px;
+    color: rgb(0,0,255);
+}
+
+#confirmation {
+    background-color: rgb(121, 224, 121);
+    font-weight: bold;
+}
